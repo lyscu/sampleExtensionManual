@@ -1,0 +1,10 @@
+{
+  "name": "extension4manualinstall",
+  "provider": "SAP Corp.",
+  "description": "An sample extension for installation on kyma.",
+  "version": "0.0.2",
+  "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/200px-Redis_Logo.svg.png",
+  "dockerRegistry": "docker.io/ericliusap",
+  "helmChartVersion": "1.0.0",
+  "parameters": []
+}
